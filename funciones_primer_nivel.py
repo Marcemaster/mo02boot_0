@@ -1,5 +1,6 @@
 def normal(x):
     return x
+
 def cuadrado(x):
     return x * x
 
